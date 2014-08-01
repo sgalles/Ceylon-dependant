@@ -1,1 +1,3 @@
-shared class Foo() {}
+shared class Foo() {
+	
+}
